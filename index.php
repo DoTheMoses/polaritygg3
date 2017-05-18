@@ -40,27 +40,12 @@
 		<div class="preloader"></div>
 	</div>
 
-	<section id="hero" class="hero-section bg1 bg-cover window-height light-text">
-		<ul class="socials-nav">
-			<li class="socials-nav-item"><a href="https://www.twitter.com/polaritygg/"><span class="fa fa-twitter"></span></a></li>
-			<li class="socials-nav-item"><a href="https://www.twitch.tv/polaritygg/"><span class="fa fa-twitch"></span></a></li>				
-			<li class="socials-nav-item"><a href="https://www.youtube.com/polaritygg/"><span class="fa fa-youtube"></span></a></li>
-			<li class="socials-nav-item"><a href="https://www.facebook.com/polaritygg/"><span class="fa fa-facebook"></span></a></li>
-		</ul>
-		<div class="heading-block centered-block align-center">
-			<div class="container">
-				<h5 class="heading-alt" style="margin-bottom: 8px;"></h5>
-				</div>
-			</div>
-		</div>
-	</section>
-
 	<header class="header header-black">
 		<div class="header-wrapper">
 			<div class="container">
 				<div class="col-sm-2 col-xs-12 navigation-header">
-					<a href="#" class="logo">
-						<img src="assets/img/Polarity_Logo_OnBlack.png" alt="Polarity Logo" width="119" height="60">
+					<a href="https://www.polarity.gg/dev/" class="logo">
+						<img src="assets/img/Polarity_Logo_OnBlack.png" alt="Polarity Logo" width="119" height="60" />
 					</a>
 					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
 						<span class="icon-bar"></span>
@@ -94,21 +79,21 @@
 
 	<div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-    	<img class="d-block img-fluid" src="assets/img/cflsmackdownslide.png" alt="CFL Smackdown slide">
+    	<img class="d-block img-fluid" src="assets/img/cflsmackdownslide.png" alt="CFL Smackdown slide" />
     	  <div class="carousel-caption d-none d-md-block">
     			<h5 class="heading-alt">CFL Smackdown</h5>
     			<p>Our weekly series for Melee, Smash 4 and Smash 64</p>
     		</div>
 		</div>
 		<div class="carousel-item">
-    	<img class="d-block img-fluid" src="assets/img/backgrounds/header1.png" alt="Unrivaled VII slide">
+    	<img class="d-block img-fluid" src="assets/img/backgrounds/header1.png" alt="Unrivaled VII slide" />
   		<div class="carousel-caption d-none d-md-block">
     		<h5 class="heading-alt">Unrivaled VII: Peak Performance</h5>
     		<p>Can you reach the top of the ladder?</p>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block img-fluid" src="assets/img/backgrounds/header1.png" alt="Broadcasting Slide">
+			<img class="d-block img-fluid" src="assets/img/backgrounds/header1.png" alt="Broadcasting Slide" />
 			  <div class="carousel-caption d-none d-md-block">
     			<h5 class="heading-alt">Unrivaled VII: Peak Performance</h5>
     			<p>Can you reach the top of the ladder?</p>
@@ -129,14 +114,14 @@
 <section class="section" style="padding: 100px 0 30px;">
 	<div class="container">
 		<div class="col-sm-6 align-center img-column">
-			<img src="../assets/img/events.png" alt="Our Event Series">
+			<img src="assets/img/events.png" alt="Our Event Series" />
 		</div>
 
 		<div class="col-sm-6 align-left">
 			<article style="max-width: 480px;">
 				<h5 class="heading-alt" id="events">Events</h5>
 				<p>Polarity hosts several events series. Every week we host Melee, Smash 4, and Smash 64 at our CFL Smackdown series, Unrivaled, Outlawed, The Smash House, and others. We host </p>
-				<a href="https://www.facebook.com/pg/PolarityGG/events" class="link-btn" style="margin: 30px 0 0">Subscribe to our events on Facebook</a>
+				<a href="https://www.facebook.com/pg/PolarityGG/events/" class="link-btn" style="margin: 30px 0 0">Subscribe to our events on Facebook</a>
 			</article>
 		</div>
 	</div>
@@ -149,12 +134,12 @@
 				<article style="max-width: 480px;">
 					<h5 class="heading-alt" id="broadcasts">Broadcasts</h5>
 					<p>In addition to hosting all our events, we also broadcast our events, along with many other events.</p>
-					<P>If you're interested in Polarity streaming your event, click <a href="mailto:admin@polarity.gg?Subject=Broadcast%20Request" target="_top">here</a> to contact us.</p>	
+					<p>If you're interested in Polarity streaming your event, click <a href="mailto:admin@polarity.gg?Subject=Broadcast%20Request" target="_top">here</a> to contact us.</p>	
 				</article>
 			</div>
 
 			<div class="col-sm-6 align-center img-column">
-				<img src="../assets/img/broadcasts.png" alt="">
+				<img src="assets/img/broadcasts.png" alt="broadcasts.png" />
 			</div>
 		</div>
 	</section>
@@ -167,7 +152,7 @@
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/kelly.jpg" alt='Kelly "Kupo" Goodchild' class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/kelly.jpg" alt='Kelly "Kupo" Goodchild' class="img-responsive" /></div>
 					<h3 class="name">Kelly "Kupo" Goodchild</h3>
 					<p><b>Director of  Events</b></p>
 					<p class="about">Events. Melee. Colbol.</p>
@@ -180,7 +165,7 @@
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/gavin.jpg" alt='Gavin "Azzy" Kuhl' class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/gavin.jpg" alt='Gavin "Azzy" Kuhl' class="img-responsive" /></div>
 					<h3 class="name">Gavin "Azzy" Kuhl</h3>
 					<p class="text-alt">Director of Media</p>
 					<p class="about">Broadcasts. Technology. Anime.</p>
@@ -193,7 +178,7 @@
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/lindsay.jpg" alt="Lindsay Gonshak" class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/lindsay.jpg" alt="Lindsay Gonshak" class="img-responsive" /></div>
 					<h3 class="name">Lindsay Gonshak</h3>
 					<p class="text-alt">Director of Public Relations</p>
 					<p class="about">Twitter. Facebook. Memes.</p>
@@ -206,7 +191,7 @@
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/matt.jpg" alt='Matt "Moses" Kiep' class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/matt.jpg" alt='Matt "Moses" Kiep' class="img-responsive" /></div>
 					<h3 class="name">Matt "Moses" Kiep</h3>
 					<p class="text-alt">Director of Operations</p>
 					<p class="about">Business development. Partnerships. Pop-punk.</p>
@@ -219,7 +204,7 @@
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/alicia.jpg" alt='Alicia "Eshabug" White' class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/alicia.jpg" alt='Alicia "Eshabug" White' class="img-responsive" /></div>
 					<h3 class="name">Alicia "Eshabug" White</h3>
 					<p class="text-alt">Event Manager: Smash 4</p>
 					<p class="about">Events. Smash 4. FPS's.</p>
@@ -232,7 +217,7 @@
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/jimmy.jpg" alt="Jimmy "Keyboardhead" Do" class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/jimmy.jpg" alt='Jimmy "Keyboardhead" Do' class="img-responsive" /></div>
 					<h3 class="name">Jimmy "Keyboardhead" Do</h3>
 					<p class="text-alt">Media Manager: Twitch</p>
 					<p class="about">Twitch. Keyboards.</p>
@@ -244,20 +229,20 @@
 			</div>
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/schrader.jpg" alt='Johnathan "Schrader" Schrader' class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/schrader.jpg" alt='Johnathan "Schrader" Schrader' class="img-responsive" /></div>
 					<h3 class="name">Johnathan "Schrader" Schrader</h3>
 					<p class="text-alt">Media Manager: Commentary</p>
 					<p class="about">Commentary scheduling. Commentator development.</p>
 					<ul class="speaker-socials">
 						<li><a href="https://www.twitter.com/schraderyo/"><span class="fa fa-twitter"></span></a></li>
-						<li><a href="https://www.twitch.tv/#"><span class="fa fa-twitch"></span></a></li>
+						<li><a href="https://www.twitch.tv/#/"><span class="fa fa-twitch"></span></a></li>
 					</ul>
 				</div>
 			</div>
 
 			<div class="col-sm-3">
 				<div class="speaker">
-					<div class="photo-wrapper"><img src="assets/img/staff/derdian.jpg" alt='Jonathan "Derdian" Turner' class="img-responsive"></div>
+					<div class="photo-wrapper"><img src="assets/img/staff/derdian.jpg" alt='Jonathan "Derdian" Turner' class="img-responsive" /></div>
 					<h3 class="name">Jonathan "Derdian" Turner</h3>
 					<p class="text-alt"><small>Media Manager: YouTube</small></p>
 					<p class="about">VODs. <a href="https://gfycat.com/HeartyGlossyEkaltadeta/">Handoffs</a>.</p>
@@ -281,6 +266,16 @@
 		</div>
 	</section>
 
+<section class="section align-center">
+		<div class="container">
+			<h5 class="heading-alt" id="about">About Us</h5>
+			<div class="sponsors">
+				<div class="sponsor big"><a href="https://twitch.tv/"><img src="assets/img/sponsors/twitch_logo_black.svg" alt="Twitch Logo Black"></a></div>
+				<div class="sponsor big"><a href="https://discordapp.com/"><img src="assets/img/sponsors/discord_logo_black.svg" alt="Discord Logo Black"></a></div>
+			</div>
+		</div>
+	</section>	
+	
 	<section class="footer">
 		<div class="container">
 
