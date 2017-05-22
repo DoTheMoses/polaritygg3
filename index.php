@@ -9,13 +9,12 @@
 	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 	
-	<title>Polarity Website 3.0</title>
+	<title>Polarity:</title>
 	<meta name="description" content="Orlando, Florida Based Tournament & Production Source">
 	<meta name="keywords" content="Polarity, polarity, melee, ssbm, smash 4, sfv">
 	<meta name="author" content="Vivaco & Polarity">
 
-	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="16x16" />
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
@@ -45,7 +44,7 @@
 			<div class="container">
 				<div class="col-sm-2 col-xs-12 navigation-header">
 					<a href="https://www.polarity.gg/dev/" class="logo">
-						<img src="assets/img/Polarity_Logo_OnBlack.png" alt="Polarity Logo" width="119" height="60" />
+						<img src="assets/img/Polarity_Logo_OnBlack.png" alt="Polarity Logo" width="190" height="100" />
 					</a>
 					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
 						<span class="icon-bar"></span>
@@ -79,17 +78,15 @@
 
 	<div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-    	<img class="d-block img-fluid" src="assets/img/cflsmackdownslide.png" alt="CFL Smackdown slide" />
+    	<img class="d-block img-fluid" src="assets/img/cflsmackdownslide.jpg" alt="CFL Smackdown slide" />
     	  <div class="carousel-caption d-none d-md-block">
-    			<h5 class="heading-alt">CFL Smackdown</h5>
+    			<h5 class="heading-alt"><img src="assets/img/cfl_smackdown_logo.png" alt="CFL Smackdown Logo" class="img-responsive" /></h5>
     			<p>Our weekly series for Melee, Smash 4 and Smash 64</p>
     		</div>
 		</div>
 		<div class="carousel-item">
-    	<img class="d-block img-fluid" src="assets/img/backgrounds/header1.png" alt="Unrivaled VII slide" />
+    	<img class="d-block img-fluid" src="assets/img/unrivaledslide.jpg" alt="Unrivaled VII slide" />
   		<div class="carousel-caption d-none d-md-block">
-    		<h5 class="heading-alt">Unrivaled VII: Peak Performance</h5>
-    		<p>Can you reach the top of the ladder?</p>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -111,35 +108,88 @@
 	</a>
 </div>
 
-<section class="section" style="padding: 100px 0 30px;">
+<section class="section align-center">
 	<div class="container">
+
+		<h1 class="heading-alt" id="events">Events</h5>
+
 		<div class="col-sm-6 align-center img-column">
-			<img src="assets/img/events.png" alt="Our Event Series" />
+			<img src="assets/img/events.jpg" alt="Our Event Series" class="img-responsive" />
 		</div>
 
 		<div class="col-sm-6 align-left">
 			<article style="max-width: 480px;">
-				<h5 class="heading-alt" id="events">Events</h5>
-				<p>Polarity hosts several events series. Every week we host Melee, Smash 4, and Smash 64 at our CFL Smackdown series, Unrivaled, Outlawed, The Smash House, and others. We host </p>
-				<a href="https://www.facebook.com/pg/PolarityGG/events/" class="link-btn" style="margin: 30px 0 0">Subscribe to our events on Facebook</a>
+				<p>Polarity hosts several event series, and we've got something for everyone. The best way to keep up to date on our events is to <a href="https://www.facebook.com/pg/PolarityGG/events/">subscribe to our events on Facebook</a>.</p>
+				
+				<h6 class="heading-alt">Our Current Event Series:</h6>
+				<ul>
+						<li><b>CFL Smackdown</b>: Our most well-known weekly series hosts Melee every Monday and SMash 4 and 64 every Tuesday.</li>
+						<li><b>Unrivaled</b>: This monthly(ish) series is held on Saturdays every month or so.</li>
+						<li><b><a href="https://www.facebook.com/groups/cflaml/">Amateur Melee League</a></b>: We've hosted 3 seasons so far our Melee league for non-PR players.</li>
+						<li><b>Outlawed</b>: A monthly PM event held on most first Wednesdays of the month.</li>
+				</ul>
+				<h6 class="heading-alt">Past Events:</h6>
+					<ul>
+						<li><b><a href="https://polarity.gg/thesmashhouse">The Smash House</a></b>: A fun, 16 player Melee invitational.</li>
+						<li><b><a href="https://smash.gg/frame-one">Frame One</a></b>: A one-off regional here in Orlando.</li>
+					</ul>
+
 			</article>
 		</div>
 	</div>
 </section>
 
-<section class="section">
+<section class="section align-center">
 		<div class="container">
 
-			<div class="col-sm-6 align-right">
+			<h1 class="heading-alt" id="broadcasts">Broadcasts</h1>
+
+			<div class="col-sm-6 align-left">
 				<article style="max-width: 480px;">
-					<h5 class="heading-alt" id="broadcasts">Broadcasts</h5>
-					<p>In addition to hosting all our events, we also broadcast our events, along with many other events.</p>
-					<p>If you're interested in Polarity streaming your event, click <a href="mailto:admin@polarity.gg?Subject=Broadcast%20Request" target="_top">here</a> to contact us.</p>	
+
+					<p>In addition to hosting all our events, we also broadcast our events, along with many other events. <a href="https://www.youtube.com/PolarityGG/">Find VODs of all our broadcasts here</a>.</p>
+
+					<h6 class="heading-alt">Events We've Broadcast:</h6>
+					<ul>
+						<li><b>CEO Dreamland</b>, April 2017</b>: 
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492d2s--uTGJkr_d8uwiG6-jn">Melee</a> ,
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cGnK4YSVVMQXFmKyQiYgDe">Smash 64</a>
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cGnK4YSVVMQXFmKyQiYgDe">Smash 64</a>
+						</li>
+						<li><b>CEO 2016</b>, June 2016:
+							<a href="https://www.youtube.com/">Melee</a> 
+						</li>
+						<li><b>Frame Perfect Series 2</b>, March 2017:
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492fhO-qxQmc51YUj41gmPpCP">Melee</a> ,
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492f1ULWo5XVO7w4XBDJ-PQxK">Smash 64</a>
+						</li>
+						<li><b>Come to Papa 2</b>, October 2016:
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492dTkgETG0_C_7pq9GXI93xp">Melee</a> ,
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492dl_tSxvvXYMLlDw_snIETF">Smash 64</a>
+						</li>
+						<li><b>GatorLAN Spring 2016</b>, April 2016:
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492dtXyLBtyg0hXmBLyaRimyp">Melee</a>
+						</li>
+						<li><b>Come to Papa</b>, March 2016: 
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492d2s--uTGJkr_d8uwiG6-jn">Melee</a> ,
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cGnK4YSVVMQXFmKyQiYgDe">Smash 64</a>
+						</li>						
+						<li><b>Tampa Never Sleeps 6</b>, February 2016: 
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492eNnAZw4uoalogWZXNZmrNj">SFV</a> ,
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cYKs0wo7FvCV48tXLxDWjc">UMvC 3</a> ,
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492fjm-_eN7f1kBCES1BScSSL">MKX</a>
+						</li>
+						<li><b>Frame Perfect Series 1</b>, November 2015: 
+							<a href="https://www.youtube.com/playlist?list=PLWqagSqx492d5FYSeFQ7TwBCM5co11cN-">Melee</a>
+						</li>
+					</ul>
+
+					<p style="text-transform: uppercase; letter-spacing: 0.2em;"><a href="mailto:admin@polarity.gg?Subject=Broadcast%20Request" target="_top">Want us to broadcast your event? Contact us here!</a></p>	
 				</article>
 			</div>
 
 			<div class="col-sm-6 align-center img-column">
-				<img src="assets/img/broadcasts.png" alt="broadcasts.png" />
+				<img src="assets/img/broadcasts.jpg" alt="Broadcasts" class="img-responsive" />
 			</div>
 		</div>
 	</section>
@@ -147,7 +197,7 @@
 
 <section class="section align-center">
 		<div class="container">
-			<h5 class="heading-alt" id="staff">Staff</h5>
+			<h1 class="heading-alt" id="staff">Staff</h5>
 			<br>
 
 			<div class="col-sm-3">
@@ -258,7 +308,7 @@
 
 <section class="section align-center">
 		<div class="container">
-			<h5 class="heading-alt" id="partners">Partners</h5>
+			<h1 class="heading-alt" id="partners"><b>PARTNERS</b></h1>
 			<div class="sponsors">
 				<div class="sponsor big"><a href="https://twitch.tv/"><img src="assets/img/sponsors/twitch_logo_black.svg" alt="Twitch Logo Black"></a></div>
 				<div class="sponsor big"><a href="https://discordapp.com/"><img src="assets/img/sponsors/discord_logo_black.svg" alt="Discord Logo Black"></a></div>
@@ -268,11 +318,23 @@
 
 <section class="section align-center">
 		<div class="container">
-			<h5 class="heading-alt" id="about">About Us</h5>
-			<div class="sponsors">
-				<div class="sponsor big"><a href="https://twitch.tv/"><img src="assets/img/sponsors/twitch_logo_black.svg" alt="Twitch Logo Black"></a></div>
-				<div class="sponsor big"><a href="https://discordapp.com/"><img src="assets/img/sponsors/discord_logo_black.svg" alt="Discord Logo Black"></a></div>
+			<h1 class="heading-alt" id="about">About Us</h1>
+			<div class="col-md-6 align-right">
+			<h5>Our Mission</h5>
+			<p>Our mission is to connect people through the games they love by building engaging face to face and online experiences.
+We aim to provide a community where people can have fun, compete, thrive, and most importantly, belong.</p>
+
 			</div>
+			<div class="col-md-6 align-left">
+			<h5>The Fundamentals of Polarity</h5>
+			<p>These fundamentals are the core of what do at Polarity.</p>
+			<ul>
+				<li><b>Community:</b> We always put the community first.</li>
+				<li><b>Integrity:</b> </li>
+				<li><b>Quality:</b> We execute completely.</li>
+			</ul>
+
+			</div>			
 		</div>
 	</section>	
 	
