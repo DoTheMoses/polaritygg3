@@ -1,0 +1,121 @@
+/*
+Polarity specific Stylesheet.
+
+Please name classes to be easity identified in lowercase dash based format
+
+Classes that are not self explanitory should have a few notes
+*/
+
+/* content for main css elements */
+
+body {
+  background: url("../img/backgrounds/header1.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.polarity-container {
+  background-color:rgba(242, 242, 242, 0.95);
+}
+
+.profile-photo {
+  border-radius: 4px 4px 0 0;
+  border-bottom: 2px solid #e43d2e;
+}
+
+.polarity-header-1 {
+  border: 1rem solid;
+  height: 10rem;
+  display: block;
+  background-image: url("../img/backgrounds/header1.png");
+}
+
+.main-content {
+  display: block;
+}
+
+.polarity-header {
+  margin-top: -16px;
+}
+
+.carousel-caption-content{
+  border-radius: 10px;
+  background-color:rgba(43, 52, 59, 0.75);
+}
+
+.carousel-inner {
+  border-bottom: 1rem solid #2b343b;
+}
+
+.content-heading {
+  padding: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.content-column {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.bottom-border-dark {
+  border-bottom: 1rem solid #2b343b;
+}
+
+.top-border-dark {
+  border-top: 1rem solid #2b343b;
+}
+
+.left-border-dark {
+  border-left: 1rem solid #2b343b;
+}
+
+.right-border-dark {
+  border-right: 1rem solid #2b343b;
+}
+
+.equal {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.panel {
+  border: 1px solid #cccccc;
+}
+
+.content-panel {
+  padding: 1rem 0 1rem 0;
+}
+
+.content-panel-top {
+  padding-top: 1rem;
+}
+
+.title-content {
+  padding: 0.5rem;
+  border-bottom: 1px solid #cccccc;
+}
+
+.important-content {
+  padding: 0.5rem;
+  border-top: 1px solid #cccccc;
+}
+
+.important-content h4 {
+  margin: 0;
+}
+
+.important-content a {
+  letter-spacing: 0;
+  color: #2b343b;
+}
+
+.important-content:hover {
+  background-color: #e43d2e;
+  border: 2px solid #e43d2e;
+}
+
+.important-content:hover a {
+  text-decoration: none;
+  color: #f2f2f2;
+}
