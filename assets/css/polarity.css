@@ -6,12 +6,17 @@ Please name classes to be easity identified in lowercase dash based format
 Classes that are not self explanitory should have a few notes
 */
 
+/* Bootsrap pixel size
+XS 575
+Small 576 - 767
+Medium 768 - 991
+Large 992 - 1199
+XL 1200
+*/
+
 /* content for main css elements */
 
-body {
-  background: url("../img/backgrounds/header1.png") no-repeat center center fixed;
-  background-size: cover;
-}
+
 
 .polarity-container {
   background-color:rgba(242, 242, 242, 0.95);
@@ -22,11 +27,77 @@ body {
   border-bottom: 2px solid #e43d2e;
 }
 
-.polarity-header-1 {
-  border: 1rem solid;
-  height: 10rem;
-  display: block;
-  background-image: url("../img/backgrounds/header1.png");
+
+@media screen and (max-width: 765px) {
+  .preloader-mask {
+    background: url("../img/backgrounds/icon1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    height: 100%;
+  }
+
+
+  body {
+    background: url("../img/backgrounds/icon1.jpg") no-repeat center center fixed;
+    background-size: cover;
+  }
+
+  .polarity-header-1 {
+    background-image: url("../img/backgrounds/icon1.jpg");
+  }
+
+  .align-left-small {
+    text-align: left;
+  }
+
+  .polarity-container {
+    background-color: #f2f2f2;
+  }
+
+  .polarity-header img {
+    margin-top: -26px;
+  }
+}
+
+@media screen and (min-width: 765px) {
+  .preloader-mask {
+    background: url("../img/backgrounds/header1.png") no-repeat center center fixed;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10000;
+    height: 100%;
+  }
+
+  .polarity-header-1 {
+    border: 1rem solid;
+    height: 10rem;
+    display: block;
+    background-image: url("../img/backgrounds/header1.png");
+  }
+
+  body {
+    background: url("../img/backgrounds/header1.png") no-repeat center center fixed;
+    background-size: cover;
+  }
+
+  .align-right-medium {
+      text-align: right;
+  }
+}
+
+@media screen and (min-width: 765px) {
+  .align-left-medium {
+      text-align: left;
+  }
 }
 
 .main-content {
@@ -34,6 +105,7 @@ body {
 }
 
 .polarity-header {
+  height: 90px;
   margin-top: -16px;
 }
 

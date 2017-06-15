@@ -2867,10 +2867,9 @@ li { /* matt */
 /* ----------------------------------------------------------------------------
     Preloader
 ---------------------------------------------------------------------------- */
+
+
 .preloader-mask {
-  background: url("../img/backgrounds/header1.png") no-repeat center center fixed;
-  background-size: cover;
-  position: fixed;
   top: 0;
   left: 0;
   right: 0;
