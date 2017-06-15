@@ -179,7 +179,7 @@ XL 1200
 
 .important-content a {
   letter-spacing: 0;
-  color: #2b343b;
+  /*color: #2b343b;*/
 }
 
 .important-content:hover {
