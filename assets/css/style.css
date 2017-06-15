@@ -2867,13 +2867,13 @@ li { /* matt */
 /* ----------------------------------------------------------------------------
     Preloader
 ---------------------------------------------------------------------------- */
+
+
 .preloader-mask {
-  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #f7f7f7;
   z-index: 10000;
   height: 100%;
 }
@@ -6314,7 +6314,7 @@ button[type="submit"] .loading {
 .navigation-item {
   margin-left: 21px;
   display: inline-block;
-  padding: 34px 0 16px;
+  padding: 18px 0 16px;
 }
 .navigation-item:first-child {
   margin-left: 0;
@@ -6608,7 +6608,6 @@ button[type="submit"] .loading {
     Footer
 ---------------------------------------------------------------------------- */
 .footer {
-  padding: 50px 0 0;
   color: #ffffff;
   background-color: #39444d;
 }
