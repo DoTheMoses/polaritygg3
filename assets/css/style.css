@@ -6569,6 +6569,7 @@ button[type="submit"] .loading {
     display: block;
     padding: 0;
   }
+
   .dropdown:not(.open):hover .dropdown-menu {
     display: none;
   }
