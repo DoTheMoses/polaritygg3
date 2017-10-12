@@ -65,8 +65,8 @@
 							<li class="navigation-item"><a href="#events" class="navigation-link">Events</a></li>
 							<li class="navigation-item"><a href="#broadcasts" class="navigation-link">Broadcasts</a></li>
 							<li class="navigation-item"><a href="#staff" class="navigation-link">Staff</a></li>
-							<li class="navigation-item"><a href="#partners" class="navigation-link">Sponsors</a></li>
-							<li class="navigation-item"><a href="#contact" class="navigation-link">Contact</a></li>
+							<li class="navigation-item"><a href="#partners" class="navigation-link">Partners</a></li>
+							<li class="navigation-item"><a href="#about" class="navigation-link">About Polarity</a></li>
 						</ul>
 					</div>
 				</div>
@@ -85,7 +85,7 @@
     <div class="carousel-item active">
     	<img class="d-block img-fluid" src="assets/img/cflsmackdownslide.jpg" alt="CFL Smackdown slide" />
     	  <div class="carousel-caption d-none d-md-block">
-    			<h5 class="heading-alt"><img src="assets/img/cfl_smackdown_logo.png" alt="CFL Smackdown Logo" class="img-responsive" /></h5>
+    			<h5 class="heading-alt"><img src="assets/img/cfl_smackdown_logo.png" style="display:inline" alt="CFL Smackdown Logo" class="img-responsive" /></h5>
 					<div class="carousel-caption-content">
 						<p>Our weekly series for Melee, Smash 4 and Smash 64</p>
 					</div>
@@ -124,11 +124,12 @@
 
 				<div class="row panel content-panel">
 					<div class="title-content col-sm-12">
-						<h1 class="heading-alt" id="events">- Events -</h1>
+						<h1 class="heading-alt" id="events">Events</h1>
 				  </div>
 
 					<div class="col-sm-12 content-heading">
-						<p>Polarity hosts several event series, and we've got something for everyone. The best way to keep up to date on our events is to <a href="https://www.facebook.com/pg/PolarityGG/events/">subscribe to our events on Facebook</a>.</p>
+						<p>Polarity hosts several event series, and we've got something for everyone.</p>
+						<p>The best way to keep up to date on our events is to <a href="https://www.facebook.com/pg/PolarityGG/events/">subscribe to our events on Facebook</a>!</p>
 				  </div>
 
 
@@ -144,7 +145,7 @@
 									<li><b>CFL Smackdown</b>: Our most well-known weekly series hosts Melee every Monday and SMash 4 and 64 every Tuesday.</li>
 									<li><b>Unrivaled</b>: This monthly series is held on Saturdays every month or so.</li>
 									<li><b><a href="https://www.facebook.com/groups/cflaml/" target="_blank">Amateur Melee League</a></b>: We've hosted 3 seasons so far our Melee league for non-PR players.</li>
-									<li><b>Outlawed</b>: A monthly PM event held on most first Wednesdays of the month.</li>
+									<li><b>Outlawed</b>: A monthly PM event held every first Wednesday of the month.</li>
 							</ul>
 							<h6 class="heading-alt">Past Events:</h6>
 								<ul>
@@ -164,11 +165,12 @@
 
 					<div class="row panel content-panel-top">
 					<div class="title-content col-sm-12">
-						<h1 class="heading-alt" id="broadcasts">- Broadcasts -</h1>
+						<h1 class="heading-alt" id="broadcasts">Broadcasts</h1>
 					</div>
 
 					<div class="col-sm-12 content-heading">
-						<p>In addition to hosting all our events, we also broadcast our events, along with many other events. <a href="https://www.youtube.com/PolarityGG/" target="_blank">Find VODs of all our broadcasts here</a>.</p>
+						<p>In addition to hosting all our events, we also broadcast our events, along with many other events.</p>
+						<p><a href="https://www.youtube.com/PolarityGG/" target="_blank">Find VODs of all our broadcasts here</a>.</p>
 				  </div>
 
 					<div class="col-sm-12 col-md-6 col-md-push-6 align-center img-column pull-right">
@@ -181,12 +183,12 @@
 								<h6 class="heading-alt">Events We've Broadcast:</h6>
 								<ul>
 									<li><b>CEO Dreamland</b>, April 2017</b>:
-										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492d2s--uTGJkr_d8uwiG6-jn" target="_blank">Melee</a> ,
-										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cGnK4YSVVMQXFmKyQiYgDe" target="_blank">Smash 64</a> ,
-										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cGnK4YSVVMQXFmKyQiYgDe" target="_blank">Brawl</a>
+										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492f2XoWdkIxKEsBMSdMktD15" target="_blank">Melee</a> ,
+										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492dO3vfLOsaNkdO_rrEtCfYF" target="_blank">Smash 64</a> ,
+										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492fbNRM9AJGpe3x3nrnCoCNK" target="_blank">Brawl</a>
 									</li>
 									<li><b>CEO 2016</b>, June 2016:
-										<a href="https://www.youtube.com/">Melee</a>
+										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492cmeQc3djxAfl9DQ9fCg-9q">Melee</a>
 									</li>
 									<li><b>Frame Perfect Series 2</b>, March 2017:
 										<a href="https://www.youtube.com/playlist?list=PLWqagSqx492fhO-qxQmc51YUj41gmPpCP" target="_blank">Melee</a> ,
@@ -268,7 +270,7 @@
 				<div class="container">
 					<div class="row panel content-panel">
 						<div class="col-sm-12">
-							<h1 class="heading-alt" id="staff">- Staff -</h1>
+							<h1 class="heading-alt" id="staff">Staff</h1>
 						</div>
 					</div>
 					<br />
@@ -280,7 +282,7 @@
 									<div class="photo-wrapper profile-photo"><img src="assets/img/staff/kelly.jpg" alt='Kelly "Kupo" Goodchild' class="img-responsive" /></div>
 									<h3 class="name">Kelly "Kupo" Goodchild</h3>
 									<p><b>Director of  Events</b></p>
-									<p class="about">Events. Melee. Colbol.</p>
+									<p class="about">Events. Melee. Smash.gg.</p>
 									<ul class="speaker-socials">
 										<li><a href="https://www.twitter.com/polarity_kupo/" target="_blank"><span class="fa fa-twitter"></span></a></li>
 										<li><a href="https://www.twitch.tv/gg_kupo/" target="_blank"><span class="fa fa-twitch"></span></a></li>
@@ -294,7 +296,7 @@
 								<div class="speaker">
 									<div class="photo-wrapper profile-photo"><img src="assets/img/staff/gavin.jpg" alt='Gavin "Azzy" Kuhl' class="img-responsive" /></div>
 									<h3 class="name">Gavin "Azzy" Kuhl</h3>
-									<p class="text-alt">Director of Media</p>
+									<p><b>Director of Media</b>/p>
 									<p class="about">Broadcasts. Technology. Anime.</p>
 									<ul class="speaker-socials">
 										<li><a href="https://www.twitter.com/azzyssb/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -309,7 +311,7 @@
 								<div class="speaker">
 								<div class="photo-wrapper profile-photo"><img src="assets/img/staff/lindsay.jpg" alt="Lindsay Gonshak" class="img-responsive" /></div>
 								<h3 class="name">Lindsay Gonshak</h3>
-								<p class="text-alt">Director of Public Relations</p>
+								<p><b>Director of Public Relations</b></p>
 								<p class="about">Twitter. Facebook. Memes.</p>
 								<ul class="speaker-socials">
 									<li><a href="https://www.twitter.com/polaritylindsay/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -324,7 +326,7 @@
 								<div class="speaker">
 								<div class="photo-wrapper profile-photo"><img src="assets/img/staff/matt.jpg" alt='Matt "Moses" Kiep' class="img-responsive" /></div>
 								<h3 class="name">Matt "Moses" Kiep</h3>
-								<p class="text-alt">Director of Operations</p>
+								<p><b>Director of Operations</b></p>
 								<p class="about">Business development. Partnerships. Pop-punk.</p>
 								<ul class="speaker-socials">
 									<li><a href="https://www.twitter.com/dothemoses/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -341,7 +343,7 @@
 								<div class="speaker">
 								<div class="photo-wrapper profile-photo"><img src="assets/img/staff/alicia.jpg" alt='Alicia "Eshabug" White' class="img-responsive" /></div>
 								<h3 class="name">Alicia "Eshabug" White</h3>
-								<p class="text-alt">Event Manager: Smash 4</p>
+								<p><b>Event Manager: Smash 4</b></p>
 								<p class="about">Events. Smash 4. FPS's.</p>
 								<ul class="speaker-socials">
 									<li><a href="https://www.twitter.com/eshabug1993/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -356,7 +358,7 @@
 								<div class="speaker">
 								<div class="photo-wrapper profile-photo"><img src="assets/img/staff/jimmy.jpg" alt='Jimmy "Keyboardhead" Do' class="img-responsive" /></div>
 								<h3 class="name">Jimmy "Keyboardhead" Do</h3>
-								<p class="text-alt">Media Manager: Twitch</p>
+								<p><b>Media Manager: Twitch</b></p>
 								<p class="about">Twitch. Keyboards.</p>
 								<ul class="speaker-socials">
 									<li><a href="https://www.twitter.com/keyboardhead/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -371,7 +373,7 @@
 								<div class="speaker">
 								<div class="photo-wrapper profile-photo"><img src="assets/img/staff/schrader.jpg" alt='Johnathan "Schrader" Schrader' class="img-responsive" /></div>
 								<h3 class="name">Johnathan "Schrader" Schrader</h3>
-								<p class="text-alt">Media Manager: Commentary</p>
+								<p><b>Media Manager: Commentary</b></p>
 								<p class="about">Commentary scheduling. Commentator development.</p>
 								<ul class="speaker-socials">
 									<li><a href="https://www.twitter.com/schraderyo/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -386,7 +388,7 @@
 								<div class="speaker">
 								<div class="photo-wrapper profile-photo"><img src="assets/img/staff/derdian.jpg" alt='Jonathan "Derdian" Turner' class="img-responsive" /></div>
 								<h3 class="name">Jonathan "Derdian" Turner</h3>
-								<p class="text-alt"><small>Media Manager: YouTube</small></p>
+								<p><b>Media Manager: YouTube</b></p>
 								<p class="about">VODs. <a href="https://gfycat.com/HeartyGlossyEkaltadeta/">Handoffs</a>.</p>
 								<ul class="speaker-socials">
 									<li><a href="https://www.twitter.com/polarityderdian/" target="_blank"><span class="fa fa-twitter"></span></a></li>
@@ -403,7 +405,7 @@
 				<div class="container">
 					<div class="row panel content-panel">
 						<div class="title-content col-sm-12">
-							<h1 class="heading-alt" id="partners">- PARTNERS -</h1>
+							<h1 class="heading-alt" id="partners">PARTNERS</h1>
 						</div>
 					<div class="sponsors col-sm-12 align-center">
 						<div class="sponsor big"><a href="https://twitch.tv/" target="_blank"><img src="assets/img/sponsors/twitch_logo_black.svg" alt="Twitch Logo Black"></a></div>
@@ -417,7 +419,7 @@
 				<div class="container">
 					<div class="row panel content-panel">
 						<div class="title-content col-sm-12">
-							<h1 class="heading-alt" id="about">- About Us -</h1>
+							<h1 class="heading-alt" id="about">About Us</h1>
 						</div>
 
 					<div class="col-md-6 align-right-medium content-column">
@@ -459,7 +461,7 @@
 				<li class="socials-nav-item"><a href="https://www.youtube.com/polaritygg/" target="_blank"><span class="fa fa-youtube"></span></a></li>
 				<li class="socials-nav-item"><a href="https://www.facebook.com/polaritygg/" target="_blank"><span class="fa fa-facebook"></span></a></li>
 			</ul>
-			<p><a href="mailto:admin@polarity.gg?Subject=Broadcast%20Request" target="_top">Contact</a></p>
+			<p><a href="mailto:admin@polarity.gg?Subject=Hello%20Polarity!" target="_top">Contact</a></p>
 		</div>
 	</div>
 </footer>

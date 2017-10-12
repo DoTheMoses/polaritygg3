@@ -2118,7 +2118,7 @@ a:focus {
 }
 .link-btn {
   display: inline-block;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.22em;
@@ -2801,7 +2801,7 @@ li { /* matt */
   display: block;
   width: 65px;
   height: 32px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
@@ -3110,7 +3110,7 @@ li { /* matt */
   min-width: 144px;
   max-width: 100%;
   padding: 21px 25px 19px;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-align: center;
@@ -6387,7 +6387,7 @@ button[type="submit"] .loading {
   transition: color 0.15s ease, background 0.15s ease, border 0.15s ease, opacity 0.15s ease;
   display: inline-block;
   padding: 7px 0;
-  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
